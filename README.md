@@ -7,7 +7,7 @@ A curated list of awesome angular Courses, tutorial, libraries and tricks. Inspi
 
 ### Contributing
 
-Help us on making AngularJS tutorial more resourcefull. Please take a quick gander at the [contribution guidelines](https://github.com/aruzmeister/awesome-angular/blob/master/CONTRIBUTING.md) first. 
+Help us on making AngularJS tutorial more resourcefull. Please take a quick gander at the [contribution guidelines](https://github.com/aruzmeister/awesome-angular/blob/master/CONTRIBUTING.md) first.
 
 ### Contents
 
@@ -23,9 +23,10 @@ Help us on making AngularJS tutorial more resourcefull. Please take a quick gand
     - [E-Books](#ebooks)
     - [Help](#help)
     - [Routing](#routing)
+    - [Sample Apps](#sampleapps)
     - [Scopes](#scopes)
     - [Video](#video)
- 
+
 
 
 ## Getting Started with AngularJS
@@ -96,7 +97,7 @@ Help us on making AngularJS tutorial more resourcefull. Please take a quick gand
 * [Lynda Up and Running with AngularJS](http://www.lynda.com/AngularJS-tutorials/Up-Running-AngularJS/154414-2.html)
 * [Pluralsight: AngularJS Patterns: Clean Code](http://www.pluralsight.com/courses/angularjs-patterns-clean-code)
 * [Pluralsight: AngularJS Line of Business Applications](http://www.pluralsight.com/courses/angularjs-line-of-business-applications)
-* [The Angular Course - Launch a full product with AngularJS](https://www.angularcourse.com) - Over 7 hrs of HD video 
+* [The Angular Course - Launch a full product with AngularJS](https://www.angularcourse.com) - Over 7 hrs of HD video
 * [Tuts+: Hands-on Angular](https://tutsplus.com/course/hands-on-angular/)
 
 
@@ -191,6 +192,16 @@ Help us on making AngularJS tutorial more resourcefull. Please take a quick gand
 * [Using Resolve In AngularJS Routes](http://odetocode.com/blogs/scott/archive/2014/05/20/using-resolve-in-angularjs-routes.aspx)
 
 
+## Sample Apps
+
+* [A Shopping Cart Application Built with AngularJS](http://www.codeproject.com/Articles/576246/A-Shopping-Cart-Application-Built-with-AngularJS)
+* [Building a Chat App with node-webkit, Firebase, and AngularJS](http://www.sitepoint.com/building-chat-app-node-webkit-firebase-angularjs/)
+* [Building the 2048 game in AngularJS](http://www.ng-newsletter.com/posts/building-2048-in-angularjs.html)
+* [Create a TV Show Tracker using AngularJS, Node.js and MongoDB](http://sahatyalkabov.com/create-a-tv-show-tracker-using-angularjs-nodejs-and-mongodb/)
+* [Learning AngularJS by Example â The Customer Manager Application](http://weblogs.asp.net/dwahlin/archive/2013/10/25/learning-angularjs-by-example-the-customer-manager-application.aspx)
+* [Remote Desktop Client with AngularJS and Yeoman](http://blog.mgechev.com/2014/02/08/remote-desktop-vnc-client-with-angularjs-and-yeoman/)
+
+
 ## Scopes
 
 * [5 Guidelines For Avoiding Scope Soup in Angular](http://www.technofattie.com/2014/03/21/five-guidelines-for-avoiding-scope-soup-in-angular.html)
@@ -225,6 +236,6 @@ Help us on making AngularJS tutorial more resourcefull. Please take a quick gand
 *Videos for understanding and getting familiar with AngularJS.*
 
 * [AngularJS Fundamentals In 60-ish Minutes](https://www.youtube.com/watch?v=i9MHigUZKEM) - AngularJS JumpStart to learn AngularJS
-* [Introduction to Angular JS](https://www.youtube.com/watch?v=8ILQOFAgaXE) - Walk through building a sample application with AngularJS 
+* [Introduction to Angular JS](https://www.youtube.com/watch?v=8ILQOFAgaXE) - Walk through building a sample application with AngularJS
 * [AngularJS Fundamentals for Rapid HTML5 Development](https://www.youtube.com/watch?v=ec99SDwSyeI) - AngularJS from the ground up in manner suitable for designers, developers
 * [Learn and Understand AngularJS - The First 50 Minutes](https://www.youtube.com/watch?v=ejBkOjEG6F0) - Learn Fundamental of AngularJS in 50 minutes.

@@ -23,6 +23,7 @@ Help us on making AngularJS tutorial more resourcefull. Please take a quick gand
     - [Routing](#routing)
     - [Sample Apps](#sampleapps)
     - [Scopes](#scopes)
+    - [Testing](#testing)
     - [Video](#video)
 
 

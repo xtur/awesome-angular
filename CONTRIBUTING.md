@@ -5,7 +5,7 @@ Your each commit can make impact for people to learn, write and teach AngularJS.
 - **To add to the list:** Submit a pull request
 - **To remove from the list:** Open an issue
 
-To set this list apart from and compliment the excellent [Angular Homepage](https://angularjs.org/), awesome-angular is a specially curated list for high-quality, actively maintained Go packages and resources.
+To set this list apart from and compliment the excellent [Angular Homepage](https://angularjs.org/), awesome-angular is a specially curated list for high-quality, actively maintained angular packages and resources.
 
 - List items should be sorted *alphabetically*.
 - Each item should be limited to one link
@@ -24,7 +24,7 @@ To stay on the list, package repositories should adhere to these quality standar
 - Functional
 - Actively maintained (even if that just means acknowledging open issues when they arise)
 - Stable, or progressing toward stable
-- Documented (preferably godoc.org)
+- Documented (preferably docs.angularjs.org)
 - Tests are preferred (when possible)
 
 

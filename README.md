@@ -21,7 +21,7 @@ Help us on making AngularJS tutorial more resourcefull. Please take a quick gand
     - [E-Books](#ebooks)
     - [Help](#help)
     - [Routing](#routing)
-    - [Sample Apps](#sampleapps)
+    - [Sample Apps](#sample-apps)
     - [Scopes](#scopes)
     - [Testing](#testing)
     - [Video](#video)

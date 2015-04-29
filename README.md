@@ -172,6 +172,9 @@ Help us on making AngularJS tutorial more resourcefull. Please take a quick gand
 * [Reddit](http://www.reddit.com/r/angularjs)
 * [StackOverflow](http://stackoverflow.com/questions/tagged/angularjs)
 
+## Promises
+* [ AngularJS and Promises](http://weblog.west-wind.com/posts/2014/Oct/24/AngularJs-and-Promises-with-the-http-Service)
+
 
 ## Routing
 

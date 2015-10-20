@@ -259,3 +259,4 @@ Help us on making AngularJS tutorial more resourcefull. Please take a quick gand
 * [Introduction to Angular JS](https://www.youtube.com/watch?v=8ILQOFAgaXE) - Walk through building a sample application with AngularJS
 * [AngularJS Fundamentals for Rapid HTML5 Development](https://www.youtube.com/watch?v=ec99SDwSyeI) - AngularJS from the ground up in manner suitable for designers, developers
 * [Learn and Understand AngularJS - The First 50 Minutes](https://www.youtube.com/watch?v=ejBkOjEG6F0) - Learn Fundamental of AngularJS in 50 minutes.
+* [Learn AngularJS - Video Tutorial For Beginners](https://www.youtube.com/watch?v=RBhqLRoRDgo&list=PLBTXLYhPD8MHGMW-ZEvdAtkxyAz-N8Toj&index=1) - Learn AngularJS - Video Tutorial For Beginners
